@@ -1,4 +1,3 @@
-from xml import dom
 import requests
 
 domain = input("Enter domain: ")
